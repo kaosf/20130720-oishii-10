@@ -1,0 +1,7 @@
+Thumbs.db
+.DS_Store
+.classpath
+.project
+.settings
+bin
+gen
