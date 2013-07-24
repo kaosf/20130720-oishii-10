@@ -3,3 +3,7 @@
 レシピ 09 まで終わった状態のもの (イベント終了時の状態のもの) となっています．
 
 ひとまずアップしておきます． by か
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
